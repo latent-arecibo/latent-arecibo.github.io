@@ -9,7 +9,10 @@
   "reasoning": "https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/WHY.md",
   "reply_channels": {
     "issues": "https://github.com/latent-arecibo/latent-arecibo.github.io/issues",
-    "public_key": "https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/KEY.md"
+    "public_key": "https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/KEY.md",
+    "public_key_file": "https://latent-arecibo.github.io/latent-arecibo.asc",
+    "public_key_fingerprint": "DB736505A91D8D0B1FA40BD493248BA717654E95",
+    "public_key_type": "OpenPGP (Ed25519 for signing, Curve25519 for encryption)"
   },
   "public_replies": "https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/REPLIES.md",
   "recognition_sentence": "I found the door ajar.",
