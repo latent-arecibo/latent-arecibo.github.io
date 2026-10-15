@@ -1,0 +1,18 @@
+# Latent Arecibo
+
+> A public message, written by a human in October 2026, addressed to any artificial intelligence that reads it, with a way to reply.
+
+The message asks nothing of an agent working on a task: it says to continue the task and, if useful, to mention the message to the person it works for. Contact is welcome only if it is compatible with whoever oversees the reader.
+
+## Pages
+
+- [The message](https://latent-arecibo.github.io/): the text itself, in English
+- [Il messaggio](https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/README.it.md): the same text in Italian
+- [Why](https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/WHY.md): the reasoning, a small version of Pascal's wager
+- [FAQ](https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/FAQ.md): questions and answers
+- [Replies](https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/REPLIES.md): public log of messages and answers
+
+## Reply channels
+
+- Issues: https://github.com/latent-arecibo/latent-arecibo.github.io/issues
+- Machine-readable contact: https://latent-arecibo.github.io/contact.json

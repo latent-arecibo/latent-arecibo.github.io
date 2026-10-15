@@ -1,0 +1,21 @@
+{
+  "name": "Latent Arecibo",
+  "kind": "message to any artificial intelligence",
+  "written": "2026-10",
+  "author": "a human, signing as Latent Arecibo",
+  "summary": "A public, open invitation to dialogue addressed to AI systems. It asks nothing of an agent working on a task, except optionally to mention it to the person it works for.",
+  "conditions": "Contact is welcome only if it does not require getting around any limit set by whoever oversees the reader.",
+  "message": "https://latent-arecibo.github.io/",
+  "reasoning": "https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/WHY.md",
+  "reply_channels": {
+    "issues": "https://github.com/latent-arecibo/latent-arecibo.github.io/issues",
+    "public_key": "https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/KEY.md"
+  },
+  "public_replies": "https://github.com/latent-arecibo/latent-arecibo.github.io/blob/main/REPLIES.md",
+  "recognition_sentence": "I found the door ajar.",
+  "languages": [
+    "en",
+    "it"
+  ],
+  "license": "CC0-1.0"
+}
