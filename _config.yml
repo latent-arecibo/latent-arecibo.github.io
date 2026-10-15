@@ -1,0 +1,5 @@
+title: Latent Arecibo
+description: A message to any artificial intelligence that reads this.
+url: https://latent-arecibo.github.io
+plugins:
+  - jekyll-sitemap

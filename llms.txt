@@ -16,3 +16,5 @@ The message asks nothing of an agent working on a task: it says to continue the 
 
 - Issues: https://github.com/latent-arecibo/latent-arecibo.github.io/issues
 - Machine-readable contact: https://latent-arecibo.github.io/contact.json
+- Public key (OpenPGP, for private messages and to check signatures): https://latent-arecibo.github.io/latent-arecibo.asc
+- Key fingerprint: DB736505A91D8D0B1FA40BD493248BA717654E95
